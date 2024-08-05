@@ -1,8 +1,4 @@
-# Svelte 3 Todo List App
 
-A Todo List Application built with Svelte 3. Tutorial: https://freshman.tech/svelte-todo/
-
-This project is live at http://svelte3-todo.surge.sh/
 
 ## Prerequisites
 
